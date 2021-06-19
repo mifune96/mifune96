@@ -15,7 +15,6 @@ Currently working in _Software Engineering Division_ as a **_Android Developer_*
 - Kotline
 - GIT (VCS)
 - Java
-- SQL Lite
 - Retrofit
 - Mysql, FireBase, Sql Lite, Mongo DB
 - Laravel 8
