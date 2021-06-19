@@ -1,5 +1,7 @@
 [![Ali Imran Github Stats](https://github-readme-stats.vercel.app/api?username=mifune96&count_private=true&theme=default&show_icons=true)](https://github.com/mifune96)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mifune96&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mifune96&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mifune96&theme=default)
 <br>
 
 👋 Hello... My full name is Ali Imran, so you can call me "Ali or Imran". I'm Software Engineer who specialized in _android developer_ side, but also have an ability to code in _full stack_ side. Very passionate about modern _mobile and web technology_ using kotline and java while taking into consideration the latest trends and techniques.
