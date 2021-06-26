@@ -1,5 +1,8 @@
-[![visitors](https://visitor-badge.laobi.icu/badge?page_id=mifune96.mifune96) 
-![Ali Imran Github Stats](https://github-readme-stats.vercel.app/api?username=mifune96&count_private=true&theme=default&show_icons=true)](https://github.com/mifune96)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=mifune96.mifune96) 
+[![GitHub followers](https://img.shields.io/github/followers/mifune96.svg?style=social&label=Followers)](https://github.com/mifune96?tab=followers)
+
+
+[![Ali Imran Github Stats](https://github-readme-stats.vercel.app/api?username=mifune96&count_private=true&theme=default&show_icons=true)](https://github.com/mifune96)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mifune96&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mifune96&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mifune96&theme=default)
